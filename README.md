@@ -21,9 +21,8 @@ Mi objetivo principal es integrarme a una empresa que me permita seguir aprendie
 A lo cargo de la carrera de henry adquiri conocimiento y utilice estas herramientas en los diferentes proyectos que se realizaron.
 
   •	Python
-  •	SQL
+  •	SQL Server
   •	VS Code
-  •	SSMS
   •	Power BI
   •	GitHub
   •	Google Bigquery
